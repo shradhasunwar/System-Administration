@@ -12,7 +12,7 @@ link = request.LAN("lan")
 for i in range(3):
   if i == 0:
     node = request.XenVM("webserver")
-      elif i == 1: 
+      elif i ==1: 
     node = request.XenVM("observer")
     else:
       node = request.XenVM("ldap")
