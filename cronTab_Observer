@@ -1,0 +1,1 @@
+*/30 * * * * sh ./monitor.sh >/dev/null 2>&1
