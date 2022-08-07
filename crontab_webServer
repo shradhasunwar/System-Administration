@@ -1,0 +1,2 @@
+
+*/5 * * * * sh ./scan.sh >/dev/null 2>&1
